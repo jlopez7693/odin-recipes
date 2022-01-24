@@ -28,11 +28,15 @@ a {
 footer {
     position: absolute;
     left: 0;
+    height: 3em;
     width: 100%;
     margin-top: 2em;
     background-color: #ff9865;
     color: white;
-    text-align: center;
+}
+
+footer a {
+color: white
 }
 
 .recipe-image {
